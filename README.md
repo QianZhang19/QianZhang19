@@ -15,7 +15,7 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
-![GitHub activity graph for Qian](https://activity-graph.herokuapp.com/graph?username=QianZhang19&theme=dracula)
+[![GitHub activity graph for Qian](https://github-readme-activity-graph.cyclic.app/graph?username=QianZhang19&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/QianZhang19/github-readme-activity-graph)
 
 
 
