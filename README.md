@@ -15,6 +15,7 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
+![GitHub activity graph for Qian](https://activity-graph.herokuapp.com/graph?username=QianZhang19&theme=dracula)
 
 
 
