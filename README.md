@@ -17,6 +17,7 @@
 
 [![GitHub activity graph for Qian](https://github-readme-activity-graph.cyclic.app/graph?username=QianZhang19&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/QianZhang19/github-readme-activity-graph)
 
+<marquee scrollAmount=2 width=300 onmouseover=stop() onmouseout=start()>Thank you for the visit! </marquee>
 
 
 
