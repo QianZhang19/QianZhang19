@@ -13,17 +13,11 @@
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-<div align="center"> <img src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=sun0225SUN" /> </div>
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QianZhang19&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub activity graph for Qian](https://github-readme-activity-graph.cyclic.app/graph?username=QianZhang19&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/QianZhang19/github-readme-activity-graph)
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F22F7&background=E3B2FF00&width=441&height=58&lines=Thank+you+for+the+visit!)](https://git.io/typing-svg)
-
-
-
 
 
 
