@@ -20,6 +20,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7F22F7&background=E3B2FF00&width=441&height=58&lines=Thank+you+for+the+visit!)](https://git.io/typing-svg)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qianzhang19&show_icons=true&locale=en" alt="qianzhang19" /></p>
+
 
 
 
