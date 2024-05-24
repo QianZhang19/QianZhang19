@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qian</h1>
 <h3 align="center">Full-stack Software Engineer & Data Analyst</h3>
 
-- 📫 How to reach me **q.zhang0109@gmail.com**
+- 📫 How to reach me **qianZ0109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
