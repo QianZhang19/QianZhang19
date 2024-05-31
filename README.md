@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qian</h1>
-<h3 align="center">AI Software Engineer & AI & Data Analyst</h3>
+<h3 align="center">Full-stack Developer & AI Software Developer & Data Scientist</h3>
 
 - 📫 How to reach me **qianZ0109@gmail.com**
 
